@@ -1,5 +1,5 @@
 _repo: Rex-Kingdon-on-Storm-Island_52557
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Wrenn, Charles L. (Charles Lewis)
@@ -7,12 +7,17 @@ contributor:
     deathdate: 1952
     gutenberg_agent_id: '25468'
     url: http://www.gutenberg.org/2009/agents/25468
+covers:
+- cover_type: archival
+  image_path: 52557-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Braddock, Gordon
     gutenberg_agent_id: '46933'
     url: http://www.gutenberg.org/2009/agents/46933
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52557#Rex-Kingdon-on-Storm-Island
 gutenberg_issued: '2016-07-11'
 gutenberg_type: Text
 identifiers:
